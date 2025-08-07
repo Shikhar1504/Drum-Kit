@@ -14,6 +14,10 @@ A simple web-based drum kit application that allows users to play drum sounds by
 *   **CSS3:** For styling the drum kit, including button layouts, colors, and animations.
 *   **JavaScript:** For handling user interactions (clicks and key presses) and playing the audio files.
 
+## Repository
+
+[https://github.com/Shikhar1504/Drum-Kit](https://github.com/Shikhar1504/Drum-Kit)
+
 ## How to Use
 
 1.  **Clone the repository** (if applicable) or download the project files.
