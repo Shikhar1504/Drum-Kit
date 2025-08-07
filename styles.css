@@ -1,18 +1,18 @@
 body {
   text-align: center;
-  background-color: #283149;
+  background-color: #34495e; /* Darker blue-grey */
 }
 
 h1 {
   font-size: 5rem;
-  color: #DBEDF3;
-  font-family: "Arvo", cursive;
-  text-shadow: 3px 0 #DA0463;
+  color: #ecf0f1; /* Off-white */
+  font-family: "Montserrat", sans-serif; /* New font */
+  text-shadow: 3px 0 #e74c3c; /* Red-orange */
 
 }
 
 footer {
-  color: #DBEDF3;
+  color: #bdc3c7; /* Light grey */
   font-family: sans-serif;
 }
 
@@ -54,8 +54,8 @@ footer {
 }
 
 .pressed {
-  box-shadow: 0 3px 4px 0 #DBEDF3;
-  opacity: 0.5;
+  box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.3); /* Darker, more subtle shadow */
+  opacity: 0.7; /* Slightly less opaque */
 }
 
 .red {
@@ -64,18 +64,18 @@ footer {
 
 .drum {
   outline: none;
-  border: 10px solid #404B69;
+  border: 7px solid #95a5a6; /* Lighter grey border */
   font-size: 5rem;
-  font-family: 'Arvo', cursive;
+  font-family: 'Montserrat', sans-serif; /* New font */
   line-height: 2;
   font-weight: 900;
-  color: #DA0463;
-  text-shadow: 3px 0 #DBEDF3;
-  border-radius: 15px;
+  color: #2c3e50; /* Dark blue-grey */
+  text-shadow: 2px 0 #ecf0f1; /* Off-white text shadow */
+  border-radius: 10px; /* Slightly less rounded */
   display: inline-block;
   width: 150px;
   height: 150px;
   text-align: center;
   margin: 10px;
-  background-color: white;
+  background-color: #ecf0f1; /* Off-white background */
 }
